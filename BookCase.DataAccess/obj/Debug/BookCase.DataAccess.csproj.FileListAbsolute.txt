@@ -1,0 +1,16 @@
+C:\Users\o\Desktop\BookCase\BookCase.DataAccess\bin\Debug\BookCase.DataAccess.dll.config
+C:\Users\o\Desktop\BookCase\BookCase.DataAccess\bin\Debug\BookCase.DataAccess.dll
+C:\Users\o\Desktop\BookCase\BookCase.DataAccess\bin\Debug\BookCase.DataAccess.pdb
+C:\Users\o\Desktop\BookCase\BookCase.DataAccess\bin\Debug\BookCase.Entities.dll
+C:\Users\o\Desktop\BookCase\BookCase.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\o\Desktop\BookCase\BookCase.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\o\Desktop\BookCase\BookCase.DataAccess\bin\Debug\JetEntityFrameworkProvider.dll
+C:\Users\o\Desktop\BookCase\BookCase.DataAccess\bin\Debug\BookCase.Entities.pdb
+C:\Users\o\Desktop\BookCase\BookCase.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\o\Desktop\BookCase\BookCase.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\o\Desktop\BookCase\BookCase.DataAccess\obj\Debug\BookCase.DataAccess.csprojAssemblyReference.cache
+C:\Users\o\Desktop\BookCase\BookCase.DataAccess\obj\Debug\BookCase.DataAccess.csproj.CopyComplete
+C:\Users\o\Desktop\BookCase\BookCase.DataAccess\obj\Debug\BookCase.DataAccess.dll
+C:\Users\o\Desktop\BookCase\BookCase.DataAccess\obj\Debug\BookCase.DataAccess.pdb
+C:\Users\o\Desktop\BookCase\BookCase.DataAccess\bin\Debug\BookCase.Entities.dll.config
+C:\Users\o\Desktop\BookCase\BookCase.DataAccess\obj\Debug\BookCase.DataAccess.csproj.CoreCompileInputs.cache

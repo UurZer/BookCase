@@ -1,0 +1,13 @@
+C:\Users\o\Desktop\BookCase\BookCase.Entities\bin\Debug\BookCase.Entities.dll
+C:\Users\o\Desktop\BookCase\BookCase.Entities\bin\Debug\BookCase.Entities.pdb
+C:\Users\o\Desktop\BookCase\BookCase.Entities\obj\Debug\BookCase.Entities.dll
+C:\Users\o\Desktop\BookCase\BookCase.Entities\obj\Debug\BookCase.Entities.pdb
+C:\Users\o\Desktop\BookCase\BookCase.Entities\bin\Debug\BookCase.Entities.dll.config
+C:\Users\o\Desktop\BookCase\BookCase.Entities\bin\Debug\EntityFramework.dll
+C:\Users\o\Desktop\BookCase\BookCase.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\o\Desktop\BookCase\BookCase.Entities\bin\Debug\JetEntityFrameworkProvider.dll
+C:\Users\o\Desktop\BookCase\BookCase.Entities\bin\Debug\EntityFramework.xml
+C:\Users\o\Desktop\BookCase\BookCase.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\o\Desktop\BookCase\BookCase.Entities\obj\Debug\BookCase.Entities.csproj.CopyComplete
+C:\Users\o\Desktop\BookCase\BookCase.Entities\obj\Debug\BookCase.Entities.csprojAssemblyReference.cache
+C:\Users\o\Desktop\BookCase\BookCase.Entities\obj\Debug\BookCase.Entities.csproj.CoreCompileInputs.cache
